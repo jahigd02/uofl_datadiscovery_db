@@ -1,5 +1,7 @@
 # Notes
 
+*Please read https://github.com/jahigd02/uofl_datadiscovery_db/blob/main/DBDocument.pdf for a detailed explanation of the research, and the results of benchmarks.*
+
 ## Directory Structure
 All files related to running the program are in _spring_24/core_.
 
